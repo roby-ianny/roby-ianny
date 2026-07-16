@@ -59,8 +59,3 @@ My passions are:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=roby-ianny&repo=roby-ianny/roby-ianny.github.io&show_owner=true&theme=catppuccin_mocha)](https://github.com/roby-ianny/roby-ianny.github.io)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=roby-ianny&repo=roby-ianny/caasa-helper&show_owner=true&theme=catppuccin_mocha)](https://github.com/roby-ianny/caasa-helper)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=roby-ianny&repo=roby-ianny/dotfiles&show_owner=true&theme=catppuccin_mocha)](https://github.com/roby-ianny/dotfiles)
-
-
-=======
-![GithubCard](https://githubcard.com/roby-ianny.svg?d=APrKPXHqJjz6)
->>>>>>> 52d23af46f2775c188ceee4be49fbfb822a2c9b8
