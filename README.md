@@ -1,5 +1,7 @@
 # 👨🏼‍💻Who am I
 
+![banner](./banner.jpg)
+
 Hi! 👋🏼 I'm Roberto, a Computer Engineering student from Italy🍝. I'm passionate about Open source software and consumer electronics, I consider myself as a [1x Engineer](https://1x.engineer/).
 
 🎯 My current focus is mobile security, especially android devices.
